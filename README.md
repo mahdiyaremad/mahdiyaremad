@@ -1,6 +1,6 @@
 <h1 align="center">🗽 Mahdiyar Emad 🗽</h1>
 <div align="center">
-    <a href="https://infinitytm.ir">InFinity Community"</a>
+    <a href="https://infinitytm.ir">InFinity Community</a>
     <a href="https://x.com/mahdiyaremad"><img src="https://img.shields.io/twitter/follow/MahdiyarEmad?style=social" alt="MahdiyarEmad"/></a>
 </div>
 
@@ -30,7 +30,6 @@ Here are some of the projects I have worked on or contributed to:
 
 ## 🏆 Achievements
 - Completed CS50x in 2023.
-- Discord Active Developer.
 
 ## ✉️ Certificates
 ![CS50x Certificate](./CS50x.jpg?raw=true)
