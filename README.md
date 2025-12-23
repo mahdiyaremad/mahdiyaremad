@@ -1,7 +1,7 @@
 <h1 align="center">🗽 Mahdiyar Emad 🗽</h1>
 <div align="center">
-    <a href="https://discord.gg/infinitytm"><img src="https://badgen.net/discord/members/infinitytm?icon=discord" alt="InFinity Community"/></a>
-    <a href="https://x.com/mtmralone"><img src="https://img.shields.io/twitter/follow/mtmralone?style=social" alt="MTMrAlone"/></a>
+    <a href="https://infinitytm.ir">InFinity Community"</a>
+    <a href="https://x.com/mahdiyaremad"><img src="https://img.shields.io/twitter/follow/MahdiyarEmad?style=social" alt="MahdiyarEmad"/></a>
 </div>
 
 Hi, I'm Mahdiar, a software developer from Iran. I love creating web applications and learning new technologies. I have a bachelor's degree in computer science and over three years of professional experience in various projects and domains.
@@ -13,6 +13,7 @@ Hi, I'm Mahdiar, a software developer from Iran. I love creating web application
 - Python, Flask, Discord.py
 - C, Algorithm, Data Structre
 - Git, GitHub, VS Code, Linux
+- React, Next.js, SQLAlchemy
 
 ## 🌱 Projects
 Here are some of the projects I have worked on or contributed to:
