@@ -8,7 +8,7 @@ Hi, I'm Mahdiar, a software developer from Iran. I love creating web application
 - HTML, CSS, JavaScript
 - Node.js, Lua, SQLite
 - CorelDraw, PhotoShop, MySQL
-- Python, Flask, Discord.py
+- Python, FastAPI, Discord.py
 - C, Algorithm, Data Structre
 - Git, GitHub, VS Code, Linux
 - React, Next.js, SQLAlchemy
